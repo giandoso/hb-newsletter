@@ -1,0 +1,38 @@
+body{
+  background: url('../img/background.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-size: 1.1em;
+}
+
+h1{
+  font-family: 'Oswald', sans-serif;
+  color: #222;
+}
+
+p{
+  font-family: 'Montserrat', sans-serif;
+  color: #777;
+}
+
+.container{
+  margin: 10%;
+}
+
+.left{
+  width: 50%;
+}
+
+input{
+  width: 65%;
+  padding: 7px 14px;
+  border: 1px solid #92ABEF;
+}
+button{
+  color: #fff;
+  width: 20%;
+  padding: 7px 14px;
+  margin-left: -5px;
+  background: #92ABEF;
+  border: 1px solid #92ABEF;
+}
